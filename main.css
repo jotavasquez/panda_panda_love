@@ -1,0 +1,52 @@
+.container {
+   /* background-color: blue;*/
+}
+
+header {
+    height:200px ;
+}
+
+.red {
+    background-color: #FF875F;
+}
+
+.green {
+    background-color: #93F082;
+}
+
+img {
+    width: 100%;
+}
+
+#pictures {
+    text-align: center;
+    justify-content: center;
+}
+
+.tCenter {
+    text-align: center;
+    display: flex;
+}
+
+.footer {
+    text-align: right;
+    justify-content: flex-end;
+}
+
+.red {
+ border: 1px solid red;
+}
+
+.img {
+    padding: 0;
+    margin: 0;
+}
+
+#photos {
+    justify-content: space-around;
+    display: inline-flex;
+}
+
+#photos img{
+    width: 20%;
+}
